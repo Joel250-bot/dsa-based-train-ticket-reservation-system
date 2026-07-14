@@ -1,0 +1,6 @@
+{
+  "name": "DSA-Based Train Ticket Reservation System",
+  "description": "A professional railway reservation portal demonstrating custom Data Structures (Singly Linked List for confirmed reservations, FIFO Queue for waiting lists) integrated with Cloud Firestore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
